@@ -1,0 +1,502 @@
+@import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Italiana&family=Julius+Sans+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Italiana&family=Julius+Sans+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jacques+Francois&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Jacques+Francois&family=Julius+Sans+One&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.margem1 {
+    width: 100vw;
+    height: 20px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+}
+
+.frase1 {
+    color: white;
+    font-family: "ABeeZee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.margem2 {
+    width: 100vw;
+    height: 110px;
+    background-color: #ECE9E9;
+    flex-wrap: wrap;
+}
+
+.frase2 {
+    font-family: "Italiana", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 22px;
+}
+
+.frase3 {
+    font-family: "Julius Sans One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 42px;
+}
+
+.menu {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 0.7rem;
+    align-items: center;
+
+}
+
+.banner1 img {
+    width: 100vw;
+}
+
+.banner2 img {
+    width: 100vw;
+}
+
+.titulo1 {
+    font-family: "Jacques Francois", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 35px;
+    margin-left: 35px;
+}
+
+.margemtrans {
+    width: 1466px;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 30px;
+    gap: 30px;
+
+
+}
+
+.tenisMaisVendidos img {
+    width: 200px;
+    border-radius: 10px;
+    margin-left: 33px;
+
+}
+
+.box1 {
+    width: 200px;
+    height: 100px;
+    margin-left: 60px;
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.box2 {
+    width: 200px;
+    height: 50px;
+    margin-left: 40px;
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.box3 {
+    width: 200px;
+    height: 50px;
+    margin-left: 30px;
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.box4 {
+    width: 200px;
+    height: 50px;
+    margin-left: 30px;
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.box5 {
+    width: 200px;
+    height: 50px;
+    margin-left: 60px;
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.box6 {
+    width: 200px;
+    height: 50px;
+    margin-left: 38px;
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.descri {
+    display: flex;
+    margin-right: 20px;
+}
+
+.moldura1 {
+    width: 700px;
+    height: 400px;
+    margin-left: 420px;
+    margin-top: 30px;
+    background-image: url('../img/gif.gif');
+    background-size: 100% 100%;
+    border-radius: 10px;
+}
+
+.moldura2 {
+    width: 1000px;
+    height: 600px;
+    margin-top: 30px;
+    background-image: url('../img/BANNER.jpg');
+    background-size: 100% 100%;
+}
+
+.moldura3 {
+    width: 800px;
+    height: 600px;
+    margin-top: 30px;
+    background-image: url('../img/BANNER3.webp');
+    background-size: 100% 100%;
+}
+
+.ambas {
+    display: flex;
+    gap: 80px;
+}
+
+.titulo3 {
+    margin-top: 45px;
+    margin-left: 60px;
+    font-size: 2rem;
+
+}
+
+.trans3 {
+    width: 1466px;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.trans4 {
+    width: 1466px;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-top: 200px;
+}
+
+.imagemnike1 img {
+    width: 400px;
+    border-radius: 10px;
+    margin-left: 33px;
+
+}
+
+.imagemnike2 img {
+    width: 400px;
+    border-radius: 10px;
+    margin-left: 33px;
+
+}
+
+.mover1 {
+    display: flex;
+    justify-content: center;
+}
+
+.mover2 {
+    display: flex;
+    justify-content: center;
+}
+
+.fi1 {
+    width: 200px;
+    height: 100px;
+    margin-left: 60px;
+
+}
+
+.fi2 {
+    width: 200px;
+    height: 50px;
+    margin-left: 40px;
+
+}
+
+.fi3 {
+    width: 200px;
+    height: 50px;
+    margin-left: 30px;
+}
+
+.fi4 {
+    width: 200px;
+    height: 50px;
+    margin-left: 30px;
+}
+
+.descri2 {
+    display: flex;
+    margin-left: 278px;
+}
+
+.ti1 {
+    width: 200px;
+    height: 100px;
+    margin-left: 60px;
+    background-color: blue;
+
+}
+
+.ti2 {
+    width: 200px;
+    height: 50px;
+    margin-left: 40px;
+    background-color: blue;
+
+}
+
+.ti3 {
+    width: 200px;
+    height: 50px;
+    margin-left: 30px;
+    background-color: blue;
+}
+
+.ti4 {
+    width: 200px;
+    height: 50px;
+    margin-left: 30px;
+    background-color: blue;
+}
+
+.imagemnike2 {
+    display: flex;
+    gap: 200px;
+}
+
+.imagemnike2 figure {
+    text-align: center;
+    max-width: 150px;
+}
+
+.imagemnike2 img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.imagemnike2 figcaption {
+    margin-top: 8px;
+    font-size: 14px;
+    color: #333;
+    font-weight: bold;
+}
+
+.imagemnike1 {
+    display: flex;
+    gap: 200px;
+}
+
+.imagemnike1 figure {
+    text-align: center;
+    max-width: 150px;
+}
+
+.imagemnike1 img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.imagemnike1 figcaption {
+    margin-top: 8px;
+    font-size: 14px;
+    color: #333;
+    font-weight: bold;
+}
+
+figcaption {
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.trans5 {
+    width: 100vw;
+    height: 500px;
+    background-color: black;
+    margin-top: 60px;
+    background-image: url('../img/bannerolym.webp');
+    background-size: 100% 100%;
+}
+
+.trans6 {
+    width: 600px;
+    height: 600px;
+    background-color: black;
+    margin-top: 60px;
+    background-image: url('../img/tenisolym01.webp');
+    background-size: 100% 100%;
+    margin-left: 70px;
+}
+
+.trans7 {
+    width: 480px;
+    height: 600px;
+    background-color: black;
+    margin-top: 60px;
+    background-image: url('../img/tenisolym02.img');
+    background-size: 100% 100%;
+    margin-right: 50px;
+}
+
+.ambos2 {
+    display: flex;
+    gap: 280px;
+}
+
+.trans8 {
+    width: 100vw;
+    height: 500px;
+    background-color: black;
+    margin-top: 60px;
+    background-image: url('../img/bannermizu.webp');
+    background-size: 100% 100%;
+}
+
+.trans9 {
+    width: 600px;
+    height: 600px;
+    background-color: black;
+    margin-top: 60px;
+    background-image: url('../img/modelomizuno1.avif');
+    background-size: 100% 100%;
+    margin-left: 70px;
+}
+
+.trans10 {
+    width: 600px;
+    height: 600px;
+    background-color: black;
+    margin-top: 60px;
+    background-image: url('../img/modelomizuno2.jpg');
+    background-size: 100% 100%;
+    margin-left: 70px;
+}
+
+.ambos3 {
+    display: flex;
+    gap: 60px;
+}
+
+.quadrado1 {
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    background-image: url('../img/imagemfinal1.jpg');
+    background-size: 100% 100%;
+}
+
+.quadrado2 {
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    background-image: url('../img/imagemfinal2.jpg');
+    background-size: 100% 100%;
+
+}
+
+.quadrado3 {
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    background-image: url('../img/imagemfinal3.jpg');
+    background-size: 100% 100%;
+
+}
+
+.quadrado4 {
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    background-image: url('../img/imagemfinal4.png');
+    background-size: 100% 100%;
+
+}
+
+.ambos4 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+
+.textofinal {
+    font-family: "Julius Sans One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: justify;
+    font-size: 0.8rem;
+    width: 60%;
+    max-width: 800px;
+    text-align: justify;
+    line-height: 1.8;
+    margin-left: 335px;
+    margin-top: 25px;
+
+}
+
+
+
+.titulo4{
+    margin-left: 625px;
+    margin-top: 60px;
+}
